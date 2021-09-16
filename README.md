@@ -1,4 +1,3 @@
-
-#Practicing highlights and layer masking 
+# Practicing highlights and layer masking 
 
 
