@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5f1cb8eca2e915f2be772ca4ab964ce0e1e61571fe9c2a0d6edc362eff35b826
-size 29
+# Practicing highlights and layer masking 
+
+
+## final image
+
+![ufoHighlights2 1](https://user-images.githubusercontent.com/70063349/133549484-27ae15b7-01d6-450d-a4b9-7ad384e3f869.png)
+
+### See the psd file to see the layers of images used and technique for highlights and composition.
